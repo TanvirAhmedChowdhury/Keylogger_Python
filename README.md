@@ -65,9 +65,9 @@ Misuse of this tool for malicious purposes may violate laws and regulations. Ens
 **🤝 Contributions**
 We welcome contributions! Feel free to:
 
-=> Report issues "\n"
-=> Submit pull requests with improvements
-=> Share your feedback
+ > Report issues
+ > Submit pull requests with improvements
+ > Share your feedback
 
 
 <h1>🛠️ Built By</h1>
