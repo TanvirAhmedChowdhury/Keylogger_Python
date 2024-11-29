@@ -86,7 +86,7 @@ class Main:
             l.join()
 
 
-bot_token = '7370505465:AAEUyvYvuWJh0o9Vo5sEf55-4FRZngtkXKM'
-chat_id = '7229230911'
+bot_token = 'REPLACE_Your_TG_BOT_TOKEN'
+chat_id = 'REPLACE_YOUR_TG_CHAT_ID'
 main = Main(bot_token, chat_id)
 main.run()
