@@ -36,8 +36,9 @@ A lightweight Python-based keylogger designed exclusively for Windows, capable o
 
 
 **2️⃣ Clone the Repository**
-```bash
-git clone https://github.com/TanvirAhmedChowdhury/Keylogger_Python.git 
+
+```bash git clone https://github.com/TanvirAhmedChowdhury/Keylogger_Python.git ```
+
 
 **3️⃣ Configure Telegram Bot**
  > Create a bot via the BotFather on Telegram.
@@ -49,24 +50,28 @@ Copy code
 ```
 TELEGRAM_BOT_TOKEN = "your_bot_token_here"  
 CHAT_ID = "your_chat_id_here"
+```
 
 **4️⃣ Run the Keylogger**
 ```
 python keylogger.py
 
-<h1>📜 Disclaimer</h1>
+```
+
+**📜 Disclaimer**
 **⚠️ This project is for educational and ethical purposes only.
 Misuse of this tool for malicious purposes may violate laws and regulations. Ensure you have proper consent before running it.**
 
 **🤝 Contributions**
 We welcome contributions! Feel free to:
 
-Report issues
-Submit pull requests with improvements
-Share your feedback
+=> Report issues
+=> Submit pull requests with improvements
+=> Share your feedback
 
 
 <h1>🛠️ Built By</h1>
-Tanvir Ahmed Chowdhury
+
+**Tanvir Ahmed Chowdhury**
 
 
